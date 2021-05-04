@@ -1,0 +1,13 @@
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\bin\Debug\netcoreapp3.1\WinFormsCalc.exe
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\bin\Debug\netcoreapp3.1\WinFormsCalc.deps.json
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\bin\Debug\netcoreapp3.1\WinFormsCalc.runtimeconfig.json
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\bin\Debug\netcoreapp3.1\WinFormsCalc.runtimeconfig.dev.json
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\bin\Debug\netcoreapp3.1\WinFormsCalc.dll
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\bin\Debug\netcoreapp3.1\WinFormsCalc.pdb
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\obj\Debug\netcoreapp3.1\WinFormsCalc.csprojAssemblyReference.cache
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\obj\Debug\netcoreapp3.1\WinFormsCalc.AssemblyInfoInputs.cache
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\obj\Debug\netcoreapp3.1\WinFormsCalc.AssemblyInfo.cs
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\obj\Debug\netcoreapp3.1\WinFormsCalc.csproj.CoreCompileInputs.cache
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\obj\Debug\netcoreapp3.1\WinFormsCalc.dll
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\obj\Debug\netcoreapp3.1\WinFormsCalc.pdb
+C:\Users\maddy\source\repos\CSC160\WinFormsCalc\WinFormsCalc\obj\Debug\netcoreapp3.1\WinFormsCalc.genruntimeconfig.cache
